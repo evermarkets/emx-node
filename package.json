@@ -1,6 +1,6 @@
 {
   "name": "emx",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "description": "Official Node.js client library for the EMX REST and WebSocket APIs.",
   "main": "index.js",
   "scripts": {
